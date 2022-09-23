@@ -42,7 +42,7 @@ class map_maker:
     def map_build(self, q):
         
         ''' 기간 변수에 대한 Map 생성 '''
-
+        pass
 
 def make_ans_target(term_map):
 
